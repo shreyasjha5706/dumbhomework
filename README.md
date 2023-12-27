@@ -1,6 +1,7 @@
 # dumbhomework
 ## Python programs:
 To print the following patterns using multiple print commands-
+
 <img width="258" alt="image" src="https://github.com/shreyasjha5706/dumbhomework/assets/67702371/78766630-6819-4f8a-879f-b9ecf6cf4db9">
 
 1. To convert length given in kilometers into meters.
